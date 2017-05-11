@@ -1,0 +1,2819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/04/29/ASP-NET-and-ASP-NET-Core-NET-Framework-and-NET-core-and-NET-Standard/</loc>
+    <lastmod>2017-05-11T14:20:41.000Z</lastmod>
+    <data>
+        <display>
+        <title>ASP.NET and ASP.NET Core, .NET Framework and .NET core and .NET Standard</title>
+        <pubTime>2017-04-29T15:54:38.000Z</pubTime>
+        
+        <tag>ASP.NET</tag>
+         
+        <tag>ASP.NET Core</tag>
+         
+        <tag>.NET Core</tag>
+         
+        <tag>.NET Framework</tag>
+         
+        <tag>.NET Standard</tag>
+         
+         
+           
+             
+              <breadCrumb title=".NET" url="https://blackie1019.github.io/categories/NET/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/05/11/Google-Compute-Engine-Default-Password-for-Windows-Instances/</loc>
+    <lastmod>2017-05-11T13:49:54.000Z</lastmod>
+    <data>
+        <display>
+        <title>Google Compute Engine Default Password for Windows Instances</title>
+        <pubTime>2017-05-11T13:16:27.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+  <url>
+    <loc>https://blackie1019.github.io/2013/10/11/xcode4-upgrade-to-xcode5-symbol-not-found-for-architecture-armv7-or-armv7s-linker-error/</loc>
+    <lastmod>2017-05-11T11:24:08.000Z</lastmod>
+    <data>
+        <display>
+        <title>Xcode4 upgrade to Xcode5 - symbol(s) not found for architecture armv7 or armv7s linker error</title>
+        <pubTime>2013-10-10T16:29:45.000Z</pubTime>
+        
+        <tag>iOS</tag>
+         
+         
+           
+             
+              <breadCrumb title="Mobile" url="https://blackie1019.github.io/categories/Mobile/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2014/01/18/work-with-jshint-using-sublime-text/</loc>
+    <lastmod>2017-05-11T11:24:08.000Z</lastmod>
+    <data>
+        <display>
+        <title>Work with JSHint using Sublime Text 2</title>
+        <pubTime>2014-01-17T16:29:45.000Z</pubTime>
+        
+        <tag>JSHint</tag>
+         
+        <tag>SublimeText</tag>
+         
+         
+           
+             
+              <breadCrumb title="JavaScript" url="https://blackie1019.github.io/categories/JavaScript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2014/04/14/using-javascript-to-control-youtube-autoplay-and-play-after-another-video-end/</loc>
+    <lastmod>2017-05-11T11:24:08.000Z</lastmod>
+    <data>
+        <display>
+        <title>How to Control YouTube AutoPlay and Play after another video end</title>
+        <pubTime>2014-04-13T16:29:45.000Z</pubTime>
+        
+        <tag>API</tag>
+         
+         
+           
+             
+              <breadCrumb title="JavaScript" url="https://blackie1019.github.io/categories/JavaScript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2013/11/13/using-html-raw-method-to-show-content-include-html-tags-in-net-mvc-with-razer-viewengine/</loc>
+    <lastmod>2017-05-11T11:24:08.000Z</lastmod>
+    <data>
+        <display>
+        <title>Using Html.Raw() method to show content include Html tags in .NET MVC(under Razor ViewEngine)</title>
+        <pubTime>2013-11-12T16:29:45.000Z</pubTime>
+        
+        <tag>Web MVC/WebApi</tag>
+         
+         
+           
+             
+              <breadCrumb title=".NET" url="https://blackie1019.github.io/categories/NET/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2014/01/01/using-git-bash-with-proxy-setting/</loc>
+    <lastmod>2017-05-11T11:24:08.000Z</lastmod>
+    <data>
+        <display>
+        <title>Using Git bash with Proxy setting</title>
+        <pubTime>2013-12-31T16:29:45.000Z</pubTime>
+        
+        <tag>Git</tag>
+         
+         
+           
+             
+              <breadCrumb title="Source Control" url="https://blackie1019.github.io/categories/Source-Control/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2013/11/04/use-nonaction-attribute-to-hide-controller-in-net-mvc-routing-table/</loc>
+    <lastmod>2017-05-11T11:24:08.000Z</lastmod>
+    <data>
+        <display>
+        <title>Use NonAction Attribute to Hide Controller in .NET MVC Routing Table</title>
+        <pubTime>2013-11-03T16:29:45.000Z</pubTime>
+        
+        <tag>Web MVC/WebApi</tag>
+         
+         
+           
+             
+              <breadCrumb title=".NET" url="https://blackie1019.github.io/categories/NET/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2014/07/23/swift-hand-by-hand-day-01/</loc>
+    <lastmod>2017-05-11T11:24:08.000Z</lastmod>
+    <data>
+        <display>
+        <title>Swift與iOS APP開發 - 介紹與開發環境安裝</title>
+        <pubTime>2014-07-22T16:29:45.000Z</pubTime>
+        
+        <tag>iOS</tag>
+         
+        <tag>Swift</tag>
+         
+         
+           
+             
+              <breadCrumb title="Mobile" url="https://blackie1019.github.io/categories/Mobile/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+  <url>
+    <loc>https://blackie1019.github.io/2016/08/21/signalr-tuning-experience/</loc>
+    <lastmod>2017-05-11T11:24:08.000Z</lastmod>
+    <data>
+        <display>
+        <title>SignalR tuning experience</title>
+        <pubTime>2016-08-20T16:01:00.000Z</pubTime>
+        
+        <tag>ASP.NET</tag>
+         
+        <tag>SignalR</tag>
+         
+         
+           
+             
+              <breadCrumb title=".NET" url="https://blackie1019.github.io/categories/NET/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2014/02/17/set-default-page-to-hybrid-web-application-mvc-and-web-form/</loc>
+    <lastmod>2017-05-11T11:24:08.000Z</lastmod>
+    <data>
+        <display>
+        <title>Set Default Page to Hybrid Web Application(MVC and Web Form)</title>
+        <pubTime>2014-02-16T16:29:45.000Z</pubTime>
+        
+        <tag>ASP.NET</tag>
+         
+        <tag>Web MVC/WebApi</tag>
+         
+         
+           
+             
+              <breadCrumb title=".NET" url="https://blackie1019.github.io/categories/NET/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2014/01/12/register-customize-net-mvc-and-webapi-routing-url-from-reflection/</loc>
+    <lastmod>2017-05-11T11:24:08.000Z</lastmod>
+    <data>
+        <display>
+        <title>Register customize .NET MVC Web/WebAPI Routing URL from Reflection</title>
+        <pubTime>2014-01-11T16:29:45.000Z</pubTime>
+        
+        <tag>ASP.NET</tag>
+         
+        <tag>Web MVC/WebApi</tag>
+         
+         
+           
+             
+              <breadCrumb title=".NET" url="https://blackie1019.github.io/categories/NET/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2016/08/22/reCAPTCHA-for-NET/</loc>
+    <lastmod>2017-05-11T11:24:08.000Z</lastmod>
+    <data>
+        <display>
+        <title>reCAPTCHA for .NET</title>
+        <pubTime>2016-08-22T02:59:06.000Z</pubTime>
+        
+        <tag>ASP.NET</tag>
+         
+        <tag>Web MVC/WebApi</tag>
+         
+        <tag>CAPTCHA</tag>
+         
+         
+           
+             
+              <breadCrumb title=".NET" url="https://blackie1019.github.io/categories/NET/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2013/09/27/qrcode-generate-by-google-chart-api/</loc>
+    <lastmod>2017-05-11T11:24:08.000Z</lastmod>
+    <data>
+        <display>
+        <title>Google Chart API 畫出QRCode</title>
+        <pubTime>2013-09-26T16:29:45.000Z</pubTime>
+        
+        <tag>Google Chart API</tag>
+         
+         
+           
+             
+              <breadCrumb title="JavaScript" url="https://blackie1019.github.io/categories/JavaScript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2013/12/27/ntvs-node.js-tools-for-visual-studio-bootcamp/</loc>
+    <lastmod>2017-05-11T11:24:08.000Z</lastmod>
+    <data>
+        <display>
+        <title>NTVS - Node.js Tools For Visual Studio Bootcamp</title>
+        <pubTime>2013-12-26T16:29:45.000Z</pubTime>
+        
+        <tag>Visual Studio</tag>
+         
+        <tag>NodeJS</tag>
+         
+         
+           
+             
+              <breadCrumb title="Development&amp;Coding" url="https://blackie1019.github.io/categories/Development-Coding/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2013/12/19/no-more-todo-customize-your-token-keywords-for-task-list-with-visual-studio/</loc>
+    <lastmod>2017-05-11T11:24:08.000Z</lastmod>
+    <data>
+        <display>
+        <title>No more TODO - Customize your token keywords for Task List with Visual Studio</title>
+        <pubTime>2013-12-18T16:29:45.000Z</pubTime>
+        
+        <tag>Visual Studio</tag>
+         
+         
+           
+             
+              <breadCrumb title="Development&amp;Coding" url="https://blackie1019.github.io/categories/Development-Coding/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2014/02/18/multiple-types-were-found-that-match-the-controller-named-xxx/</loc>
+    <lastmod>2017-05-11T11:24:08.000Z</lastmod>
+    <data>
+        <display>
+        <title>.NET MVC Multiple types were found that match the controller named 'XXX'</title>
+        <pubTime>2014-02-17T16:29:45.000Z</pubTime>
+        
+        <tag>ASP.NET</tag>
+         
+        <tag>Web MVC/WebApi</tag>
+         
+         
+           
+             
+              <breadCrumb title=".NET" url="https://blackie1019.github.io/categories/NET/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+  <url>
+    <loc>https://blackie1019.github.io/2013/10/09/signature-with-css-only/</loc>
+    <lastmod>2017-05-11T11:24:08.000Z</lastmod>
+    <data>
+        <display>
+        <title>使用CSS製作對話框簽名檔效果</title>
+        <pubTime>2013-10-08T16:29:45.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="CSS" url="https://blackie1019.github.io/categories/CSS/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2014/07/13/material-design-introduction/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>Material Design Introduction</title>
+        <pubTime>2014-07-12T16:29:45.000Z</pubTime>
+        
+        <tag>Material Design</tag>
+         
+         
+           
+             
+              <breadCrumb title="UI&amp;Design" url="https://blackie1019.github.io/categories/UI-Design/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2013/08/30/make-first-letter-of-a-string-upper-case/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>Make first letter of a string upper case in C#</title>
+        <pubTime>2013-08-29T16:29:45.000Z</pubTime>
+        
+        <tag>C#</tag>
+         
+        <tag>ASP.NET</tag>
+         
+         
+           
+             
+              <breadCrumb title=".NET" url="https://blackie1019.github.io/categories/NET/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2013/08/30/javascript-strick-mode-introduction/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>JavaScript use strict(嚴格模式)-strict mode 介紹</title>
+        <pubTime>2013-08-29T16:29:45.000Z</pubTime>
+        
+        <tag>Basic JS</tag>
+         
+         
+           
+             
+              <breadCrumb title="JavaScript" url="https://blackie1019.github.io/categories/JavaScript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/04/13/Visual-Studio-Code-Insiders-Build-Introduction/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>Visual Studio Code Insiders Build Introduction</title>
+        <pubTime>2017-04-12T16:10:36.000Z</pubTime>
+        
+        <tag>VSCode</tag>
+         
+         
+           
+             
+              <breadCrumb title="Tool" url="https://blackie1019.github.io/categories/Tool/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2014/04/14/javascript-reserved-word/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>JavaScript reserved word(保留字)</title>
+        <pubTime>2014-04-13T16:29:45.000Z</pubTime>
+        
+        <tag>Basic JS</tag>
+         
+         
+           
+             
+              <breadCrumb title="JavaScript" url="https://blackie1019.github.io/categories/JavaScript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2016/08/17/javascript-object-compare-equal-with-value-and-reference/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>JavaScript Object and compare with == and ===</title>
+        <pubTime>2016-08-16T16:29:45.000Z</pubTime>
+        
+        <tag>Basic JS</tag>
+         
+         
+           
+             
+              <breadCrumb title="JavaScript" url="https://blackie1019.github.io/categories/JavaScript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2015/04/10/javascript-function-expression-vs-declaration/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>function expression(函式陳述式) VS declaration (函式運算式)</title>
+        <pubTime>2015-04-09T16:29:45.000Z</pubTime>
+        
+        <tag>Basic JS</tag>
+         
+         
+           
+             
+              <breadCrumb title="JavaScript" url="https://blackie1019.github.io/categories/JavaScript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2015/02/28/javascript-floating-point-calculation/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>Javascript Floating-Point Calculation</title>
+        <pubTime>2015-02-27T16:29:45.000Z</pubTime>
+        
+        <tag>Basic JS</tag>
+         
+         
+           
+             
+              <breadCrumb title="JavaScript" url="https://blackie1019.github.io/categories/JavaScript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2014/01/14/javascript-call-method/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>Javascript call method(呼叫函式)</title>
+        <pubTime>2014-01-13T16:29:45.000Z</pubTime>
+        
+        <tag>Basic JS</tag>
+         
+         
+           
+             
+              <breadCrumb title="JavaScript" url="https://blackie1019.github.io/categories/JavaScript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2016/08/16/isomorphic-javascript-with-react-and-nodejs/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>Isomorphic Javascript with React and NodeJS</title>
+        <pubTime>2016-08-15T16:29:45.000Z</pubTime>
+        
+        <tag>React</tag>
+         
+        <tag>NodeJS</tag>
+         
+        <tag>isomorphic</tag>
+         
+         
+           
+             
+              <breadCrumb title="JavaScript" url="https://blackie1019.github.io/categories/JavaScript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2013/09/10/iscrolljs-introduction-with-cordova/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>使用iScroll.js讓在Cordova(Phonegap)上面快樂拖曳與捲軸功能＆一秒加速iscroll.js</title>
+        <pubTime>2013-09-09T16:29:45.000Z</pubTime>
+        
+        <tag>Cordova</tag>
+         
+        <tag>iScroll</tag>
+         
+         
+           
+             
+              <breadCrumb title="JavaScript" url="https://blackie1019.github.io/categories/JavaScript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2013/11/03/ios-hide-status-bar/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>Cannot hide status bar in iOS7</title>
+        <pubTime>2013-11-02T16:29:45.000Z</pubTime>
+        
+        <tag>iOS</tag>
+         
+         
+           
+             
+              <breadCrumb title="Mobile" url="https://blackie1019.github.io/categories/Mobile/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2013/10/11/ios-flurry-symbols-not-found-for-architecture-i386/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>flurry:symbols not found for architecture i386</title>
+        <pubTime>2013-10-10T16:29:45.000Z</pubTime>
+        
+        <tag>iOS</tag>
+         
+         
+           
+             
+              <breadCrumb title="Mobile" url="https://blackie1019.github.io/categories/Mobile/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2013/09/26/mssql-collation-update-and-setup/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>如何做MS SQL定序(Collation) 轉換</title>
+        <pubTime>2013-09-25T16:29:45.000Z</pubTime>
+        
+        <tag>MSSQL</tag>
+         
+         
+           
+             
+              <breadCrumb title="Database" url="https://blackie1019.github.io/categories/Database/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2013/10/12/ios-cordova-archives-or-build-armv7s-error-difference-between-armv6-armv7-armv7s-and-arm64/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>Phonegap archives/build armv7s error!（What different between armv6/armv7/armv7s/arm64?)</title>
+        <pubTime>2013-10-11T16:29:45.000Z</pubTime>
+        
+        <tag>Phonegap</tag>
+         
+        <tag>Cordova</tag>
+         
+         
+           
+             
+              <breadCrumb title="Mobile" url="https://blackie1019.github.io/categories/Mobile/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2013/10/02/ios-and-android-icon-and-preloading-size-list/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>iOS & Android icon and preloading size list</title>
+        <pubTime>2013-10-01T16:29:45.000Z</pubTime>
+        
+        <tag>Android</tag>
+         
+        <tag>iOS</tag>
+         
+         
+           
+             
+              <breadCrumb title="Mobile" url="https://blackie1019.github.io/categories/Mobile/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2013/12/24/implement-javascript-carousel-animation/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>實作javascript Carousel Animation</title>
+        <pubTime>2013-12-23T16:29:45.000Z</pubTime>
+        
+        <tag>Basic JS</tag>
+         
+         
+           
+             
+              <breadCrumb title="JavaScript" url="https://blackie1019.github.io/categories/JavaScript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2016/10/06/iOS-10-browser-inline-video-play/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>iOS 10 browser inline video play</title>
+        <pubTime>2016-10-06T08:54:23.000Z</pubTime>
+        
+        <tag>iOS</tag>
+         
+        <tag>Safari</tag>
+         
+         
+           
+             
+              <breadCrumb title="HTML5" url="https://blackie1019.github.io/categories/HTML5/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2013/07/17/html5-localstorage-and-sessionstorage/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>HTML5 Localstorage and Sessionstorage</title>
+        <pubTime>2013-07-17T07:25:21.000Z</pubTime>
+        
+        <tag>Web Storage</tag>
+         
+        <tag>localStorage</tag>
+         
+        <tag>sessionStorage</tag>
+         
+         
+           
+             
+              <breadCrumb title="HTML5" url="https://blackie1019.github.io/categories/HTML5/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2013/09/30/html-convert-to-excel-with-force-numeric/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>網頁資料輸出轉為Excel檔案時數字資料強制為文字呈現(含其他mso支援格式轉換)</title>
+        <pubTime>2013-09-29T16:29:45.000Z</pubTime>
+        
+        <tag>Excel</tag>
+         
+         
+           
+             
+              <breadCrumb title="CSS" url="https://blackie1019.github.io/categories/CSS/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2014/12/31/how-to-make-load-testing-with-visual-studio/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>Load testing with Visual Studio</title>
+        <pubTime>2014-12-30T16:29:45.000Z</pubTime>
+        
+        <tag>Visual Studio</tag>
+         
+        <tag>Load Testing</tag>
+         
+         
+           
+             
+              <breadCrumb title="Testing" url="https://blackie1019.github.io/categories/Testing/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2016/08/19/gulp-run-sequence/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>Gulp run-sequence - Run a Series of Dependent Gulp Tasks in Order</title>
+        <pubTime>2016-08-19T01:00:00.000Z</pubTime>
+        
+        <tag>Gulp</tag>
+         
+        <tag>Front-End Optimization</tag>
+         
+         
+           
+             
+              <breadCrumb title="Development&amp;Coding" url="https://blackie1019.github.io/categories/Development-Coding/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2016/08/18/gulp-node-del/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>NodeJS del - sDelete Files and Folder</title>
+        <pubTime>2016-08-17T17:32:24.000Z</pubTime>
+        
+        <tag>NodeJS</tag>
+         
+        <tag>Gulp</tag>
+         
+        <tag>Front-End Optimization</tag>
+         
+         
+           
+             
+              <breadCrumb title="Development&amp;Coding" url="https://blackie1019.github.io/categories/Development-Coding/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2014/07/12/git-introduction-and-push-remote-repository-to-aws-ec2-and-azure/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>Git基本教學與使用AWS EC2( Elastic Compute Cloud ) /Microsoft Azure建立自己的Git Server</title>
+        <pubTime>2014-07-11T16:29:45.000Z</pubTime>
+        
+        <tag>Git</tag>
+         
+         
+           
+             
+              <breadCrumb title="Source Control" url="https://blackie1019.github.io/categories/Source-Control/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2013/09/05/for-loop-vs-for-in-loop/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>for loop vs for-in loop 與效能改善</title>
+        <pubTime>2013-09-04T16:29:45.000Z</pubTime>
+        
+        <tag>Basic JS</tag>
+         
+         
+           
+             
+              <breadCrumb title="JavaScript" url="https://blackie1019.github.io/categories/JavaScript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2013/08/27/flurry-on-ios/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>Flurry on iOS</title>
+        <pubTime>2013-08-26T16:29:45.000Z</pubTime>
+        
+        <tag>Phonegap</tag>
+         
+        <tag>Cordova</tag>
+         
+        <tag>Flurry</tag>
+         
+        <tag>Customer Analysis</tag>
+         
+        <tag>Web Analysis</tag>
+         
+        <tag>Mobile Analysis</tag>
+         
+        <tag>iOS</tag>
+         
+         
+           
+             
+              <breadCrumb title="Mobile" url="https://blackie1019.github.io/categories/Mobile/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2013/08/28/flurry-on-android/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>Flurry on Android</title>
+        <pubTime>2013-08-27T16:29:45.000Z</pubTime>
+        
+        <tag>Phonegap</tag>
+         
+        <tag>Cordova</tag>
+         
+        <tag>Android</tag>
+         
+        <tag>Flurry</tag>
+         
+        <tag>Customer Analysis</tag>
+         
+        <tag>Web Analysis</tag>
+         
+        <tag>Mobile Analysis</tag>
+         
+         
+           
+             
+              <breadCrumb title="Mobile" url="https://blackie1019.github.io/categories/Mobile/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2014/08/03/emmet-livestyle-hands-on-lab/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>Emmet LiveStyle hands on Lab</title>
+        <pubTime>2014-08-02T16:29:45.000Z</pubTime>
+        
+        <tag>Emmet</tag>
+         
+        <tag>SublimeText</tag>
+         
+         
+           
+             
+              <breadCrumb title="Development&amp;Coding" url="https://blackie1019.github.io/categories/Development-Coding/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2014/01/18/edit-hosts-file-in-mac-os-x-with-terminal/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>Edit Hosts file in Mac OS X with Terminal</title>
+        <pubTime>2014-01-17T16:29:45.000Z</pubTime>
+        
+        <tag>OSX</tag>
+         
+         
+           
+             
+              <breadCrumb title="Linux" url="https://blackie1019.github.io/categories/Linux/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2014/04/18/docker-introduce-and-hands-on-lab/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>Docker Introduce and Hands on LAB</title>
+        <pubTime>2014-04-17T16:29:45.000Z</pubTime>
+        
+        <tag>Container</tag>
+         
+        <tag>Docker</tag>
+         
+         
+           
+             
+              <breadCrumb title="Cotainer &amp; VM" url="https://blackie1019.github.io/categories/Cotainer-VM/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2014/08/27/d3js-intro/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>D3.JS:Intro</title>
+        <pubTime>2014-08-26T16:29:45.000Z</pubTime>
+        
+        <tag>D3js</tag>
+         
+         
+           
+             
+              <breadCrumb title="JavaScript" url="https://blackie1019.github.io/categories/JavaScript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2014/08/26/d3js-data-driven-documents/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>D3.JS:Data-Driven Documents</title>
+        <pubTime>2014-08-25T16:29:45.000Z</pubTime>
+        
+        <tag>D3js</tag>
+         
+         
+           
+             
+              <breadCrumb title="JavaScript" url="https://blackie1019.github.io/categories/JavaScript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2014/05/05/csharp-ternary-operator-null-coalescing-operator-and-var/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>c# ternary operator, null coalescing operator and var</title>
+        <pubTime>2014-05-04T16:29:45.000Z</pubTime>
+        
+        <tag>C#</tag>
+         
+        <tag>ASP.NET</tag>
+         
+         
+           
+             
+              <breadCrumb title=".NET" url="https://blackie1019.github.io/categories/NET/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2014/11/14/coding-dojo-kata-wasa-and-randori/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>Coding Dojo, Kata, Wasa, and Randori</title>
+        <pubTime>2014-11-13T16:29:45.000Z</pubTime>
+        
+        <tag>Scrum</tag>
+         
+        <tag>Agile</tag>
+         
+         
+           
+             
+              <breadCrumb title="Development&amp;Coding" url="https://blackie1019.github.io/categories/Development-Coding/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2014/02/17/callback-function-and-how-to-override-jquery-method/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>Callback function and how to override jQuery method</title>
+        <pubTime>2014-02-16T16:29:45.000Z</pubTime>
+        
+        <tag>ECMAScript</tag>
+         
+        <tag>jQuery</tag>
+         
+         
+           
+             
+              <breadCrumb title="JavaScript" url="https://blackie1019.github.io/categories/JavaScript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2013/10/23/asp-net-mvc-4-basic/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>ASP.NET MVC 4 入門</title>
+        <pubTime>2013-10-22T16:29:45.000Z</pubTime>
+        
+        <tag>ASP.NET</tag>
+         
+        <tag>Web MVC/WebApi</tag>
+         
+         
+           
+             
+              <breadCrumb title=".NET" url="https://blackie1019.github.io/categories/NET/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2013/12/15/app_code-is%20-evil/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>App_Code is Evil in Web Application Project</title>
+        <pubTime>2013-12-14T16:29:45.000Z</pubTime>
+        
+        <tag>ASP.NET</tag>
+         
+        <tag>Web MVC/WebApi</tag>
+         
+         
+           
+             
+              <breadCrumb title=".NET" url="https://blackie1019.github.io/categories/NET/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2015/03/28/angular-fullstack-developer-with-yeoman/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>Angular FullStack developer with Yeoman</title>
+        <pubTime>2015-03-27T16:29:45.000Z</pubTime>
+        
+        <tag>MongoDB</tag>
+         
+        <tag>AngularJS</tag>
+         
+        <tag>NodeJS</tag>
+         
+        <tag>MAN</tag>
+         
+        <tag>Yeoman</tag>
+         
+         
+           
+             
+              <breadCrumb title="JavaScript" url="https://blackie1019.github.io/categories/JavaScript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/03/12/Windows-Containers-on-Windows-10/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>Windows Containers on Windows 10</title>
+        <pubTime>2017-03-11T20:15:53.000Z</pubTime>
+        
+        <tag>Container</tag>
+         
+        <tag>Docker</tag>
+         
+        <tag>Windows Container</tag>
+         
+        <tag>Windows 10</tag>
+         
+         
+           
+             
+              <breadCrumb title="Cotainer &amp; VM" url="https://blackie1019.github.io/categories/Cotainer-VM/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/05/05/Visual-Studio-Code-Customize-your-Activity-Bar-Color/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>Visual Studio Code Customize your Own Edit Theme</title>
+        <pubTime>2017-05-05T02:43:25.000Z</pubTime>
+        
+        <tag>VSCode</tag>
+         
+         
+           
+             
+              <breadCrumb title="Tool" url="https://blackie1019.github.io/categories/Tool/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/04/24/Visual-Studio-Code-Find-and-Replace-with-New-Line-r-or-n/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>Visual Studio Code Find and Replace with New Line</title>
+        <pubTime>2017-04-24T15:38:43.000Z</pubTime>
+        
+        <tag>VSCode</tag>
+         
+         
+           
+             
+              <breadCrumb title="Tool" url="https://blackie1019.github.io/categories/Tool/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/04/04/Visual-Studio-Code-Icons-Extension/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>Visual Studio Code Icons Extension</title>
+        <pubTime>2017-04-04T02:58:16.000Z</pubTime>
+        
+        <tag>VSCode</tag>
+         
+         
+           
+             
+              <breadCrumb title="Tool" url="https://blackie1019.github.io/categories/Tool/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/05/03/Visual-Studio-Code-color-highlighting-to-log-files/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>Visual Studio Code adding Color Highlighting to log files</title>
+        <pubTime>2017-05-02T16:36:26.000Z</pubTime>
+        
+        <tag>VSCode</tag>
+         
+         
+           
+             
+              <breadCrumb title="Tool" url="https://blackie1019.github.io/categories/Tool/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/05/08/Visual-Studio-Code-Integrate-with-macOS-Finder/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>Visual Studio Code Integrate with macOS Finder</title>
+        <pubTime>2017-05-08T02:10:24.000Z</pubTime>
+        
+        <tag>VSCode</tag>
+         
+        <tag>macOS</tag>
+         
+         
+           
+             
+              <breadCrumb title="Tool" url="https://blackie1019.github.io/categories/Tool/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/04/09/Visual-Studio-Code-More-Guide-Lines-Extension/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>Visual Studio Code More Guide Lines Extension</title>
+        <pubTime>2017-04-08T17:38:08.000Z</pubTime>
+        
+        <tag>VSCode</tag>
+         
+         
+           
+             
+              <breadCrumb title="Tool" url="https://blackie1019.github.io/categories/Tool/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/05/07/Visual-Studio-Code-Snippet-and-Tab-Completion/</loc>
+    <lastmod>2017-05-11T11:24:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>Visual Studio Code Snippet and Tab Completion</title>
+        <pubTime>2017-05-06T16:15:15.000Z</pubTime>
+        
+        <tag>VSCode</tag>
+         
+         
+           
+             
+              <breadCrumb title="Tool" url="https://blackie1019.github.io/categories/Tool/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2015/04/14/FLUX-Introduction/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>FLUX Introduction</title>
+        <pubTime>2015-04-13T16:29:45.000Z</pubTime>
+        
+        <tag>React</tag>
+         
+        <tag>FLUX</tag>
+         
+         
+           
+             
+              <breadCrumb title="JavaScript" url="https://blackie1019.github.io/categories/JavaScript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/04/14/Dotnet-CLI-Create-New-Project-With-Target-Framework-Version/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>.NET CLI Create New Project With Target Framework Version</title>
+        <pubTime>2017-04-14T09:03:35.000Z</pubTime>
+        
+        <tag>ASP.NET Core</tag>
+         
+        <tag>.NET Core</tag>
+         
+        <tag>.NET CLI</tag>
+         
+         
+           
+             
+              <breadCrumb title=".NET" url="https://blackie1019.github.io/categories/NET/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/03/22/Visaul-Studio-Code-Quick-Add-gitingore-File/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>Visaul Studio Code Quick Add gitingore File</title>
+        <pubTime>2017-03-22T08:46:10.000Z</pubTime>
+        
+        <tag>VSCode</tag>
+         
+        <tag>Git</tag>
+         
+         
+           
+             
+              <breadCrumb title="Tool" url="https://blackie1019.github.io/categories/Tool/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/04/12/Using-Mongo-Shell-to-Operating-MongoDB-Instance-on-Docker/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>Using Mongo Shell to Operating MongoDB Instance on Docker</title>
+        <pubTime>2017-04-11T16:01:47.000Z</pubTime>
+        
+        <tag>MongoDB</tag>
+         
+         
+           
+             
+              <breadCrumb title="Database" url="https://blackie1019.github.io/categories/Database/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/04/19/Using-Gulp-to-help-JS-and-Css-Concat-and-Minify/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>Using Gulp to help JS and Css Concat and Minify</title>
+        <pubTime>2017-04-19T04:57:41.000Z</pubTime>
+        
+        <tag>Gulp</tag>
+         
+        <tag>Front-End Optimization</tag>
+         
+         
+           
+             
+              <breadCrumb title="Development&amp;Coding" url="https://blackie1019.github.io/categories/Development-Coding/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2016/08/20/Travis-CI-build-daily-with-nightli-es/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>Travis CI build daily with nightli.es</title>
+        <pubTime>2016-08-19T16:01:00.000Z</pubTime>
+        
+        <tag>Travis CI</tag>
+         
+         
+           
+             
+              <breadCrumb title="Continuous Integration" url="https://blackie1019.github.io/categories/Continuous-Integration/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/03/17/Travis-CI-Cron-Job-to-build-up-Daily-Release/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>Travis CI Cron Job to build up Daily Release</title>
+        <pubTime>2017-03-17T06:31:08.000Z</pubTime>
+        
+        <tag>Travis CI</tag>
+         
+         
+           
+             
+              <breadCrumb title="Continuous Integration" url="https://blackie1019.github.io/categories/Continuous-Integration/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/03/28/Streaming-Frame-Capture-by-FFmpeg-and-NodeJS/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>Streaming Frame Capture by FFmpeg and NodeJS</title>
+        <pubTime>2017-03-27T16:17:37.000Z</pubTime>
+        
+        <tag>NodeJS</tag>
+         
+        <tag>socket.io</tag>
+         
+        <tag>FFmpeg</tag>
+         
+        <tag>Streaming</tag>
+         
+         
+           
+             
+              <breadCrumb title="JavaScript" url="https://blackie1019.github.io/categories/JavaScript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/04/03/Singleton-Pattern-Implementation-In-CSharp/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>Singleton Pattern Implementation in C#</title>
+        <pubTime>2017-04-03T00:58:41.000Z</pubTime>
+        
+        <tag>C#</tag>
+         
+        <tag>ASP.NET</tag>
+         
+        <tag>ASP.NET Core</tag>
+         
+        <tag>Design Pattern</tag>
+         
+         
+           
+             
+              <breadCrumb title=".NET" url="https://blackie1019.github.io/categories/NET/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2013/08/26/SQL-convert-int-to-datetime-has-overflow-issue/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>SQL convert int to datetime overflow issue</title>
+        <pubTime>2013-08-26T06:56:37.000Z</pubTime>
+        
+        <tag>MSSQL</tag>
+         
+         
+           
+             
+              <breadCrumb title="Database" url="https://blackie1019.github.io/categories/Database/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/03/31/Robomongo-Native-and-cross-platform-MongoDB-manager/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>Robomongo, Native and cross-platform MongoDB manager</title>
+        <pubTime>2017-03-30T21:35:12.000Z</pubTime>
+        
+        <tag>MongoDB</tag>
+         
+         
+           
+             
+              <breadCrumb title="Database" url="https://blackie1019.github.io/categories/Database/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2015/05/03/ReactJS-AKA-the-V-in-MVC/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>ReactJS AKA the V in MVC</title>
+        <pubTime>2015-05-02T16:29:45.000Z</pubTime>
+        
+        <tag>React</tag>
+         
+         
+           
+             
+              <breadCrumb title="JavaScript" url="https://blackie1019.github.io/categories/JavaScript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/04/26/Quick-Implement-FullScreen-and-other-controls-on-HLS-JS-with-Plyr-JS/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>Quick Implement FullScreen and other controls on HLS.JS with Plyr.JS</title>
+        <pubTime>2017-04-26T13:54:44.000Z</pubTime>
+        
+        <tag>Chrome</tag>
+         
+        <tag>HLS</tag>
+         
+         
+           
+             
+              <breadCrumb title="JavaScript" url="https://blackie1019.github.io/categories/JavaScript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/04/25/Quick-Host-Static-Web-on-Node-JS/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>Quick Host Static Web on Node.JS</title>
+        <pubTime>2017-04-25T12:40:51.000Z</pubTime>
+        
+        <tag>Web Hosting</tag>
+         
+        <tag>NodeJS</tag>
+         
+         
+           
+             
+              <breadCrumb title="Development&amp;Coding" url="https://blackie1019.github.io/categories/Development-Coding/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/05/04/Prepack-A-tool-for-making-JavaScript-code-run-faster/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>Prepack - A tool for making JavaScript code run faster</title>
+        <pubTime>2017-05-04T03:44:54.000Z</pubTime>
+        
+        <tag>Front-End Optimized</tag>
+         
+        <tag>Prepack</tag>
+         
+         
+           
+             
+              <breadCrumb title="JavaScript" url="https://blackie1019.github.io/categories/JavaScript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/04/18/Nuget-Config-for-repositoryPath-and-globalPackagesFolder/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>Nuget.Config for repositoryPath and globalPackagesFolder</title>
+        <pubTime>2017-04-18T13:22:32.000Z</pubTime>
+        
+        <tag>ASP.NET</tag>
+         
+        <tag>Nuget</tag>
+         
+         
+           
+             
+              <breadCrumb title=".NET" url="https://blackie1019.github.io/categories/NET/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2016/10/04/No-Access-Control-Allow-Origin-header-is-present-on-the-requested-resource/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>No Access-Control-Allow-Origin header is present on the requested resource</title>
+        <pubTime>2016-10-04T15:52:42.000Z</pubTime>
+        
+        <tag>Chrome</tag>
+         
+        <tag>CORS</tag>
+         
+         
+           
+             
+              <breadCrumb title="Development&amp;Coding" url="https://blackie1019.github.io/categories/Development-Coding/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2013/08/31/Mou-Introduction-Write-Markdown-on-Mac/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>Mou Introduction - Write Markdown on Mac</title>
+        <pubTime>2013-08-31T13:40:20.000Z</pubTime>
+        
+        <tag>Markdown</tag>
+         
+         
+           
+             
+              <breadCrumb title="Tool" url="https://blackie1019.github.io/categories/Tool/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/04/30/Mobile-Testing-with-AWS-Device-Farm-Introduction-and-Remote-Access/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>Mobile Testing with AWS Device Farm - Introduction and Remote Access</title>
+        <pubTime>2017-04-30T05:42:49.000Z</pubTime>
+        
+        <tag>Automation Testing</tag>
+         
+        <tag>AWS</tag>
+         
+        <tag>AWS Device Farm</tag>
+         
+        <tag>Behavior Testing</tag>
+         
+        <tag>Mobile</tag>
+         
+         
+           
+             
+              <breadCrumb title="Testing" url="https://blackie1019.github.io/categories/Testing/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/05/01/Mobile-Testing-with-AWS-Device-Farm-Built-in-Fuzz-Test/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>Mobile Testing with AWS Device Farm - Built-in Fuzz Test</title>
+        <pubTime>2017-05-01T11:42:49.000Z</pubTime>
+        
+        <tag>Automation Testing</tag>
+         
+        <tag>AWS</tag>
+         
+        <tag>AWS Device Farm</tag>
+         
+        <tag>Behavior Testing</tag>
+         
+         
+           
+             
+              <breadCrumb title="Testing" url="https://blackie1019.github.io/categories/Testing/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/04/07/MS-Test-Skip-Test-Case/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>MSTest Skip Test Case</title>
+        <pubTime>2017-04-07T12:03:58.000Z</pubTime>
+        
+        <tag>ASP.NET Core</tag>
+         
+        <tag>MSTest</tag>
+         
+        <tag>Unit Testing</tag>
+         
+        <tag>Automation Testing</tag>
+         
+         
+           
+             
+              <breadCrumb title=".NET" url="https://blackie1019.github.io/categories/NET/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2016/11/30/Ironman-30-days-for-ASP-NET-Core/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>Ironman for ASP.NET Core</title>
+        <pubTime>2016-11-30T02:23:57.000Z</pubTime>
+        
+        <tag>C#</tag>
+         
+        <tag>ASP.NET Core</tag>
+         
+        <tag>Iron Man</tag>
+         
+         
+           
+             
+              <breadCrumb title=".NET" url="https://blackie1019.github.io/categories/NET/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2016/08/22/HttpWebRequest-Timeout-and-ReadWriteTimeout/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>HttpWebRequest Timeout and ReadWriteTimeout</title>
+        <pubTime>2016-08-22T08:26:34.000Z</pubTime>
+        
+        <tag>C#</tag>
+         
+        <tag>ASP.NET</tag>
+         
+         
+           
+             
+              <breadCrumb title=".NET" url="https://blackie1019.github.io/categories/NET/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/04/02/HLS-js-for-Chrome-Desktop/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>hls.js for Chrome Desktop</title>
+        <pubTime>2017-04-02T11:47:38.000Z</pubTime>
+        
+        <tag>Chrome</tag>
+         
+        <tag>HLS</tag>
+         
+         
+           
+             
+              <breadCrumb title="JavaScript" url="https://blackie1019.github.io/categories/JavaScript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/04/23/Google-Spreadsheet-Detecting-Duplicate-Item/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>Google Spreadsheet Detecting Duplicate Item</title>
+        <pubTime>2017-04-23T08:48:10.000Z</pubTime>
+        
+        <tag>Google Spreadsheet</tag>
+         
+         
+           
+             
+              <breadCrumb title="Tool" url="https://blackie1019.github.io/categories/Tool/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/04/12/Google-Cloud-Platform-Introduction/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>Google Cloud Platform Introduction</title>
+        <pubTime>2017-04-11T16:31:12.000Z</pubTime>
+        
+        <tag>ASP.NET</tag>
+         
+        <tag>GCP</tag>
+         
+        <tag>macOS</tag>
+         
+        <tag>Cloud</tag>
+         
+        <tag>GCE</tag>
+         
+        <tag>Google Compute Engine</tag>
+         
+         
+           
+             
+              <breadCrumb title="Google Cloud Platform" url="https://blackie1019.github.io/categories/Google-Cloud-Platform/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2015/11/06/GitLab-Build-up/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>GitLab Build up</title>
+        <pubTime>2015-11-05T16:29:45.000Z</pubTime>
+        
+        <tag>Git</tag>
+         
+        <tag>GitLab</tag>
+         
+         
+           
+             
+              <breadCrumb title="Source Control" url="https://blackie1019.github.io/categories/Source-Control/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/04/22/Visaul-Studio-Code-Quick-Blame-with-GitLens/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>Visaul Studio Code Quick Blame with GitLens</title>
+        <pubTime>2017-04-22T00:47:04.000Z</pubTime>
+        
+        <tag>VSCode</tag>
+         
+        <tag>Git</tag>
+         
+         
+           
+             
+              <breadCrumb title="Tool" url="https://blackie1019.github.io/categories/Tool/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/04/14/Execute-Specific-Test-Case-on-MS-Test/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>Execute Specific Test Case on MSTest</title>
+        <pubTime>2017-04-14T06:58:49.000Z</pubTime>
+        
+        <tag>ASP.NET Core</tag>
+         
+        <tag>MSTest</tag>
+         
+        <tag>Unit Testing</tag>
+         
+        <tag>Automation Testing</tag>
+         
+         
+           
+             
+              <breadCrumb title=".NET" url="https://blackie1019.github.io/categories/NET/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/03/15/Visual-Studio-2017-new-features-in-One-Poster/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>Visual Studio 2017 new features in One Poster</title>
+        <pubTime>2017-03-15T02:45:13.000Z</pubTime>
+        
+        <tag>Visual Studio</tag>
+         
+         
+           
+             
+              <breadCrumb title="Development&amp;Coding" url="https://blackie1019.github.io/categories/Development-Coding/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2016/11/08/ConcurrentQueue-Thread-safe-collections-in-NET/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>ConcurrentQueue - Thread safe collections in .NET</title>
+        <pubTime>2016-11-08T14:33:23.000Z</pubTime>
+        
+        <tag>C#</tag>
+         
+        <tag>.Net Framework</tag>
+         
+         
+           
+             
+              <breadCrumb title="HTML5" url="https://blackie1019.github.io/categories/HTML5/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/04/01/Chrome-Dev-Tools-for-CPU-and-Network-Throtting/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>Chrome Dev Tools for CPU and Network Throtting</title>
+        <pubTime>2017-04-01T08:39:05.000Z</pubTime>
+        
+        <tag>Chrome</tag>
+         
+         
+           
+             
+              <breadCrumb title="Development&amp;Coding" url="https://blackie1019.github.io/categories/Development-Coding/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/04/06/CSV-to-Markdown-Table-Generator/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>CSV to Markdown Table Generator</title>
+        <pubTime>2017-04-06T04:19:10.000Z</pubTime>
+        
+        <tag>Markdown</tag>
+         
+         
+           
+             
+              <breadCrumb title="Tool" url="https://blackie1019.github.io/categories/Tool/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/03/14/ASP-NET-core-play-with-dotnet-watch/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>ASP.NET Core play with dotnet-watch</title>
+        <pubTime>2017-03-13T18:00:03.000Z</pubTime>
+        
+        <tag>C#</tag>
+         
+        <tag>ASP.NET Core</tag>
+         
+        <tag>.NET Core</tag>
+         
+        <tag>.NET Tools</tag>
+         
+         
+           
+             
+              <breadCrumb title=".NET" url="https://blackie1019.github.io/categories/NET/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/03/30/ASP-NET-Core-using-Nuget-with-Visual-Studio-Code/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>ASP.NET Core using Nuget with Visual Studio Code</title>
+        <pubTime>2017-03-30T08:26:50.000Z</pubTime>
+        
+        <tag>ASP.NET Core</tag>
+         
+        <tag>.NET Core</tag>
+         
+        <tag>VSCode</tag>
+         
+        <tag>Nuget</tag>
+         
+         
+           
+             
+              <breadCrumb title="Development&amp;Coding" url="https://blackie1019.github.io/categories/Development-Coding/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/04/16/ASP-NET-Core-play-with-Solution-File/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>ASP.NET Core play with Solution File</title>
+        <pubTime>2017-04-16T15:15:48.000Z</pubTime>
+        
+        <tag>C#</tag>
+         
+        <tag>ASP.NET Core</tag>
+         
+        <tag>.NET Core</tag>
+         
+         
+           
+             
+              <breadCrumb title=".NET" url="https://blackie1019.github.io/categories/NET/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/03/18/ASP-NET-Core-play-with-SPA/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>ASP.NET Core play with SPA</title>
+        <pubTime>2017-03-17T16:38:56.000Z</pubTime>
+        
+        <tag>C#</tag>
+         
+        <tag>ASP.NET Core</tag>
+         
+        <tag>.NET Core</tag>
+         
+        <tag>React</tag>
+         
+        <tag>SPA</tag>
+         
+        <tag>AngularJS</tag>
+         
+         
+           
+             
+              <breadCrumb title=".NET" url="https://blackie1019.github.io/categories/NET/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/04/17/ASP-NET-Core-play-with-Redis-and-StackExchange-Redis/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>ASP.NET Core play with Redis and StackExchange.Redis</title>
+        <pubTime>2017-04-16T18:35:50.000Z</pubTime>
+        
+        <tag>ASP.NET Core</tag>
+         
+        <tag>.NET Core</tag>
+         
+        <tag>Redis</tag>
+         
+        <tag>StackExchange.Redis</tag>
+         
+         
+           
+             
+              <breadCrumb title=".NET" url="https://blackie1019.github.io/categories/NET/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/03/31/ASP-NET-Core-play-with-MongoDB-and-MongoDB-NET-Driver/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>ASP.NET Core play with MongoDB and MongoDB .NET Driver</title>
+        <pubTime>2017-03-31T02:09:20.000Z</pubTime>
+        
+        <tag>ASP.NET Core</tag>
+         
+        <tag>.NET Core</tag>
+         
+        <tag>MongoDB</tag>
+         
+        <tag>MongoDB .NET Driver</tag>
+         
+         
+           
+             
+              <breadCrumb title=".NET" url="https://blackie1019.github.io/categories/NET/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/04/10/ASP-NET-Core-play-with-MongoDB-and-MongoDB-NET-Driver-Update/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>ASP.NET Core play with MongoDB and MongoDB .NET Driver - Update</title>
+        <pubTime>2017-04-10T09:35:24.000Z</pubTime>
+        
+        <tag>ASP.NET Core</tag>
+         
+        <tag>.NET Core</tag>
+         
+        <tag>MongoDB</tag>
+         
+        <tag>MongoDB .NET Driver</tag>
+         
+         
+           
+             
+              <breadCrumb title=".NET" url="https://blackie1019.github.io/categories/NET/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/04/11/ASP-NET-Core-play-with-MongoDB-and-MongoDB-NET-Driver-Read/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>ASP.NET Core play with MongoDB and MongoDB .NET Driver - Read</title>
+        <pubTime>2017-04-10T17:35:10.000Z</pubTime>
+        
+        <tag>ASP.NET Core</tag>
+         
+        <tag>.NET Core</tag>
+         
+        <tag>MongoDB</tag>
+         
+        <tag>MongoDB .NET Driver</tag>
+         
+         
+           
+             
+              <breadCrumb title=".NET" url="https://blackie1019.github.io/categories/NET/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/04/13/ASP-NET-Core-play-with-MongoDB-and-MongoDB-NET-Driver-Decimal-Convert/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>ASP.NET Core play with MongoDB and MongoDB .NET Driver - Decimal Convert</title>
+        <pubTime>2017-04-12T16:01:04.000Z</pubTime>
+        
+        <tag>ASP.NET Core</tag>
+         
+        <tag>.NET Core</tag>
+         
+        <tag>MongoDB</tag>
+         
+        <tag>MongoDB .NET Driver</tag>
+         
+         
+           
+             
+              <breadCrumb title=".NET" url="https://blackie1019.github.io/categories/NET/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/04/08/ASP-NET-Core-play-with-MongoDB-and-MongoDB-NET-Driver-Create-Delete/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>ASP.NET Core play with MongoDB and MongoDB .NET Driver - Create and Delete</title>
+        <pubTime>2017-04-08T09:34:38.000Z</pubTime>
+        
+        <tag>ASP.NET Core</tag>
+         
+        <tag>.NET Core</tag>
+         
+        <tag>MongoDB</tag>
+         
+        <tag>MongoDB .NET Driver</tag>
+         
+         
+           
+             
+              <breadCrumb title=".NET" url="https://blackie1019.github.io/categories/NET/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/04/05/ASP-NET-Core-play-with-MSTest/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>ASP.NET Core play with MSTest</title>
+        <pubTime>2017-04-05T02:21:53.000Z</pubTime>
+        
+        <tag>ASP.NET Core</tag>
+         
+        <tag>.NET Core</tag>
+         
+        <tag>MSTest</tag>
+         
+        <tag>Unit Testing</tag>
+         
+        <tag>Automation Testing</tag>
+         
+         
+           
+             
+              <breadCrumb title=".NET" url="https://blackie1019.github.io/categories/NET/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/05/02/ASP-NET-Core-play-with-Log4Net/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>ASP.NET Core play with log4net</title>
+        <pubTime>2017-05-02T13:17:14.000Z</pubTime>
+        
+        <tag>ASP.NET Core</tag>
+         
+        <tag>.NET Core</tag>
+         
+        <tag>Log</tag>
+         
+        <tag>log4net</tag>
+         
+         
+           
+             
+              <breadCrumb title=".NET" url="https://blackie1019.github.io/categories/NET/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/04/20/ASP-NET-Core-play-with-Firebase/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>ASP.NET Core play with Firebase</title>
+        <pubTime>2017-04-19T23:55:14.000Z</pubTime>
+        
+        <tag>ASP.NET Core</tag>
+         
+        <tag>.NET Core</tag>
+         
+        <tag>GCP</tag>
+         
+        <tag>Firebase</tag>
+         
+         
+           
+             
+              <breadCrumb title="Google Cloud Platform" url="https://blackie1019.github.io/categories/Google-Cloud-Platform/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/03/27/ASP-NET-Core-nuget-can-t-restore-on-macOS/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>ASP.Net Core nuget can't restore on macOS</title>
+        <pubTime>2017-03-27T02:42:34.000Z</pubTime>
+        
+        <tag>ASP.NET Core</tag>
+         
+        <tag>.NET Core</tag>
+         
+        <tag>Nuget</tag>
+         
+        <tag>macOS</tag>
+         
+         
+           
+             
+              <breadCrumb title=".NET" url="https://blackie1019.github.io/categories/NET/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/03/13/ASP-NET-Core-add-Git-Ignore-File/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>ASP.NET Core add Git Ignore File</title>
+        <pubTime>2017-03-13T02:00:01.000Z</pubTime>
+        
+        <tag>C#</tag>
+         
+        <tag>ASP.NET Core</tag>
+         
+        <tag>.NET Core</tag>
+         
+        <tag>Git</tag>
+         
+         
+           
+             
+              <breadCrumb title=".NET" url="https://blackie1019.github.io/categories/NET/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/03/11/ASP-NET-Core-Unable-to-Start-Kestrel/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>ASP.NET Core Unable to Start Kestrel</title>
+        <pubTime>2017-03-10T18:06:35.000Z</pubTime>
+        
+        <tag>C#</tag>
+         
+        <tag>ASP.NET Core</tag>
+         
+        <tag>.NET Core</tag>
+         
+        <tag>Kerstrel</tag>
+         
+         
+           
+             
+              <breadCrumb title=".NET" url="https://blackie1019.github.io/categories/NET/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/03/19/ASP-NET-Core-Set-Hosting-environment/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>ASP.NET Core Set Hosting environment</title>
+        <pubTime>2017-03-19T04:47:20.000Z</pubTime>
+        
+        <tag>C#</tag>
+         
+        <tag>ASP.NET Core</tag>
+         
+        <tag>.NET Core</tag>
+         
+        <tag>VSCode</tag>
+         
+         
+           
+             
+              <breadCrumb title=".NET" url="https://blackie1019.github.io/categories/NET/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/03/29/ASP-NET-Core-SPA-Biobiolerplate-with-React-and-Redux/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>ASP.NET Core SPA Biobiolerplate with React and Redux</title>
+        <pubTime>2017-03-28T18:06:35.000Z</pubTime>
+        
+        <tag>ASP.NET Core</tag>
+         
+        <tag>.NET Core</tag>
+         
+        <tag>React</tag>
+         
+        <tag>Redux</tag>
+         
+         
+           
+             
+              <breadCrumb title=".NET" url="https://blackie1019.github.io/categories/NET/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/03/26/ASP-NET-Core-Play-with-Docker/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>ASP.NET Core play with Docker</title>
+        <pubTime>2017-03-26T03:46:37.000Z</pubTime>
+        
+        <tag>ASP.NET Core</tag>
+         
+        <tag>.NET Core</tag>
+         
+        <tag>Container</tag>
+         
+        <tag>Docker</tag>
+         
+         
+           
+             
+              <breadCrumb title=".NET" url="https://blackie1019.github.io/categories/NET/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/04/15/ASP-NET-Core-MVC-play-with-Goolge-Container-Engine/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>ASP.NET Core MVC play with Google Container Engine</title>
+        <pubTime>2017-04-15T15:52:01.000Z</pubTime>
+        
+        <tag>ASP.NET Core</tag>
+         
+        <tag>.NET Core</tag>
+         
+        <tag>GCP</tag>
+         
+        <tag>Container</tag>
+         
+        <tag>GKE</tag>
+         
+        <tag>Google Container Engine</tag>
+         
+        <tag>Docker</tag>
+         
+         
+           
+             
+              <breadCrumb title="Google Cloud Platform" url="https://blackie1019.github.io/categories/Google-Cloud-Platform/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/04/21/ASP-NET-Core-MVC-play-with-Google-App-Engine-Standard-Environment/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>ASP.NET Core MVC play with Google App Engine - Standard Environment</title>
+        <pubTime>2017-04-21T12:44:48.000Z</pubTime>
+        
+        <tag>ASP.NET Core</tag>
+         
+        <tag>.NET Core</tag>
+         
+        <tag>GCP</tag>
+         
+        <tag>GAE</tag>
+         
+        <tag>Google App Engine</tag>
+         
+         
+           
+             
+              <breadCrumb title="Google Cloud Platform" url="https://blackie1019.github.io/categories/Google-Cloud-Platform/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/04/28/ASP-NET-Core-MVC-play-with-Google-App-Engine-Flexible-Environment/</loc>
+    <lastmod>2017-05-11T11:24:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>ASP.NET Core MVC play with Google App Engine - Flexible Environment</title>
+        <pubTime>2017-04-28T15:37:07.000Z</pubTime>
+        
+        <tag>ASP.NET Core</tag>
+         
+        <tag>GCP</tag>
+         
+        <tag>GAE</tag>
+         
+        <tag>Google App Engine</tag>
+         
+        <tag>Container</tag>
+         
+         
+           
+             
+              <breadCrumb title="Google Cloud Platform" url="https://blackie1019.github.io/categories/Google-Cloud-Platform/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/04/27/ASP-NET-Core-Create-New-Project-Template/</loc>
+    <lastmod>2017-05-11T11:24:05.000Z</lastmod>
+    <data>
+        <display>
+        <title>ASP.NET Core Create New Project Template</title>
+        <pubTime>2017-04-27T10:07:36.000Z</pubTime>
+        
+        <tag>C#</tag>
+         
+        <tag>ASP.NET Core</tag>
+         
+        <tag>.NET Core</tag>
+         
+        <tag>.NET CLI</tag>
+         
+         
+           
+             
+              <breadCrumb title=".NET" url="https://blackie1019.github.io/categories/NET/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/03/06/ASP-NET-Core-HelloWorld-on-Windows/</loc>
+    <lastmod>2017-05-11T11:24:05.000Z</lastmod>
+    <data>
+        <display>
+        <title>ASP.NET Core HelloWorld on Windows</title>
+        <pubTime>2017-03-06T13:07:15.000Z</pubTime>
+        
+        <tag>C#</tag>
+         
+        <tag>ASP.NET Core</tag>
+         
+        <tag>.NET Core</tag>
+         
+        <tag>Iron Man</tag>
+         
+         
+           
+             
+              <breadCrumb title=".NET" url="https://blackie1019.github.io/categories/NET/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/05/06/ASP-NET-Core-Develop-with-VSCode-and-Workspace-Recommended-Extension-Configuration-to-Build-up-Development-Editor/</loc>
+    <lastmod>2017-05-11T11:24:05.000Z</lastmod>
+    <data>
+        <display>
+        <title>ASP.NET Core Develop with VSCode and Workspace Recommended Extension Configuration to Build up Project/Team Editor</title>
+        <pubTime>2017-05-05T16:28:25.000Z</pubTime>
+        
+        <tag>C#</tag>
+         
+        <tag>ASP.NET Core</tag>
+         
+        <tag>.NET Core</tag>
+         
+        <tag>VSCode</tag>
+         
+         
+           
+             
+              <breadCrumb title="Tool" url="https://blackie1019.github.io/categories/Tool/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blackie1019.github.io/2017/03/10/ASP-NET-Core-CLI-upgrade/</loc>
+    <lastmod>2017-05-11T11:24:05.000Z</lastmod>
+    <data>
+        <display>
+        <title>ASP.NET Core CLI upgrade</title>
+        <pubTime>2017-03-10T09:17:26.000Z</pubTime>
+        
+        <tag>C#</tag>
+         
+        <tag>ASP.NET Core</tag>
+         
+        <tag>.NET Core</tag>
+         
+         
+           
+             
+              <breadCrumb title=".NET" url="https://blackie1019.github.io/categories/NET/"/>
+          
+        </display>
+    </data>
+    </url>
+
+</urlset>
